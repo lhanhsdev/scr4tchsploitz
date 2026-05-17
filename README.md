@@ -13,7 +13,7 @@ this software is strictly intended for educational, experimental, and parody pur
 # acknowledgements
 
 ## inspirations
-- c00lgui
+- c00lgui (roblox)
 - [scralyx](https://scralyx.carrd.co)
 
 ## oss used
@@ -25,4 +25,5 @@ this software is strictly intended for educational, experimental, and parody pur
 - reactjs
 
 ## developers
-- me (lhanhs)
+- main developer: lhanhs (me)
+- mod techniques: [@vitor-balmante](https://scratch.mit.edu/users/vitor-balmante/), [@nexoalex](https://scratch.mit.edu/users/nexoalex/), [@TailsblueALLTT](https://scratch.mit.edu/users/TailsblueALLTT/), [@ScratchBot 16271](https://scratch.mit.edu/users/ScratchBot16271/)
