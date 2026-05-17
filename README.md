@@ -1,6 +1,8 @@
 # scr4tchsploitz
 general mod menu for scratch games
 
+![scr4tchsploitz thumbnail](thumbnail.png)
+
 # introduction
 scratch is a platform for users to create simple clicker or shooter games. most of these games are very simple, and thus are easily reverse-engineered.
 scr4tchsploitz is a tool to allow the player to modify the game, including but not limited to gaining infinite health, money, teleportation, etc.
